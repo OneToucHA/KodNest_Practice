@@ -7,3 +7,4 @@ for i in range(2,a):
         break
 else:
     print("prime")
+    
